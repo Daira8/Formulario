@@ -1,0 +1,42 @@
+
+body {
+    background-image: url("Frutos Rojos.png");
+    background-size: 1400px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 128px;
+    font-family: 'Gluten', cursive;
+    color: beige;
+    font-size: 68px;
+}
+
+p {
+    color: rgb(255, 176, 192);
+    background-color: rgb(241, 82, 82);
+    text-align: center;
+    margin-top: 58px;
+    margin-left: 318px;
+    margin-right: 318px;
+    font-size: 22px;
+    font-family: 'Pacifico', cursive;
+}
+
+.claseA {
+    margin: auto;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+input {
+    font-size: 35px;
+    width: 188px;
+    height: 58px;
+    border-radius: 15px;
+    font-family: 'Victor Mono', monospace
+}
